@@ -1,4 +1,4 @@
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/nickmp4/nickmp4/blob/output/github-snake-dark.svg)
 
 <!--
 **nickmp4/nickmp4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
